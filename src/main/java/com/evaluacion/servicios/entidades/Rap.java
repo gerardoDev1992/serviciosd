@@ -3,6 +3,11 @@ package com.evaluacion.servicios.entidades;
 import java.util.List;
 
 
+/** Represents a Rap.
+ * @author Gerardo Leyva 
+ * @version 1.0
+*/
+
 public class Rap {
 
 	private String idRap;

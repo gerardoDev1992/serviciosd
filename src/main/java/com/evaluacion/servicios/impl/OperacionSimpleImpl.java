@@ -2,6 +2,13 @@ package com.evaluacion.servicios.impl;
 
 import com.evaluacion.servicios.repository.OperacionSimpleRepository;
 
+
+/** Implementacion de operaciones basicas 
+ *  * @author Gerardo Leyva 
+ * @version 1.0
+*/
+
+
 public class OperacionSimpleImpl implements OperacionSimpleRepository{
 
 	@Override

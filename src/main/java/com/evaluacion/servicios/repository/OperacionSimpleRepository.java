@@ -1,6 +1,13 @@
 package com.evaluacion.servicios.repository;
 
 
+
+
+/** La clase operacion debe implentar operaciones basicas
+ * @author Gerardo Leyva 
+ * @version 1.0
+*/
+
 public interface OperacionSimpleRepository {
 	
 	public int suma(int numero1,int numero2);

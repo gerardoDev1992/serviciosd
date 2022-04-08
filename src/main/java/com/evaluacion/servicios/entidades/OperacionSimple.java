@@ -2,6 +2,11 @@ package com.evaluacion.servicios.entidades;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
+/** Representa operaciones entre numeros enteros 
+ * @author Gerardo Leyva 
+ * @version 1.0
+*/
+
 public class OperacionSimple {
 	@JsonIgnore
 	private int numeroA;
